@@ -1,6 +1,6 @@
 let prompt=document.querySelector("#prompt")
 let chatContainer=document.querySelector(".chat-container")
-const Api_Url="https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AIzaSyDQ1M0QqsgrZqdnf1v6XswXpc2o04r0Rsk" 
+
 let user={
     data :null,
 }
